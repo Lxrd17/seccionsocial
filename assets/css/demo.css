@@ -1,0 +1,45 @@
+@import url('webfonts/fonts.css');
+:root{
+  --apple: 'SF Display';
+  --blanco: #fff;
+}
+
+h1, h2, h3, h4, h5, p{
+  font-family: var(--apple);
+}
+a{
+  color: var(--blanco);
+}
+a{
+  font-size: 20px;
+}
+.h1-seo2{
+  color: var(--blanco);
+  font-size: 130px;
+  font-weight: 600;
+}
+.h1-seo{
+  font-size: 130px;
+}
+.h1-seo1{
+  font-size: 100px;
+  color: var(--blanco);
+  font-weight: 600;
+}
+
+@media(max-width: 500px){
+  .h1-seo{
+    padding: 15px;
+    text-align: center;
+    font-size: 50px;
+    transform: rotate(270deg);
+  }
+  .h1-seo2{
+    font-size: 60px;
+  }
+  .h1-seo1{
+    text-align: center;
+    font-size: 50px;
+    transform: rotate(270deg);
+  }
+}
