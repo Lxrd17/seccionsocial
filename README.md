@@ -35,6 +35,7 @@ Se añadió el enlace a página de incio
 Version 1.6
 Se añadió información y se cambió el 
 estilo del botón de "regresar"
+05 / Julio / 2020
 ```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
