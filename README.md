@@ -1,6 +1,6 @@
 # Social
 ## Rama de index
-### Versión 1.2
+### Versión 1.3
 
 Proyecto de titulación en el instituto CETis 167.
 "Hermanos Flores Magón"
@@ -19,6 +19,11 @@ Cambio de fuente
 ```
 Version 1.2
 Se añadió el enlace a comic
+04 / Julio / 2020
+```
+```
+Version 1.3
+Se añadió el enlace a horoscopo
 04 / Julio / 2020
 ```
 ## Autor
