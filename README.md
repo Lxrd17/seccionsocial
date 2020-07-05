@@ -1,6 +1,6 @@
 # Social
 ## Rama de index
-### Versión 1.4
+### Versión 1.6
 
 Proyecto de titulación en el instituto CETis 167.
 "Hermanos Flores Magón"
@@ -30,6 +30,11 @@ Se añadió el enlace a horoscopo
 Version 1.4
 Se añadió el enlace a página de incio
 05 / Julio / 2020
+```
+```
+Version 1.6
+Se añadió información y se cambió el 
+estilo del botón de "regresar"
 ```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
