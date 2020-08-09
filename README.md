@@ -47,6 +47,11 @@ Versión 1.8
 Cmabió el favicon como el og:imagen
 06 / Julio / 2020
 ```
+```
+Versión 1.9
+Cambio de enlace hacía la playlis
+08 / Agosto / 2020
+```
 ## Autor
 * **Ismael Rosete** - *GACETIS* - [Lxrd17](https://github.com/Lxrd17)
 
